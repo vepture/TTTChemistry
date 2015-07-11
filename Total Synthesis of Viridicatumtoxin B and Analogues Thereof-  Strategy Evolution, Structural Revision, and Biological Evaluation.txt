@@ -1,0 +1,19 @@
+Total Synthesis of Viridicatumtoxin B and Analogues Thereof: 
+Strategy Evolution, Structural Revision, and Biological Evaluation
+
+Abstract 
+---------
+The details of the total synthesis of viridicatumtoxin B (1) are described. Initial synthetic
+strategies toward this intriguing tetracycline antibiotic resulted in the development of
+key alkylation and Lewis acid-mediated spirocyclization reactions to form the hindered EF 
+spirojunction, as well as Michael–Dieckmann reactions to set the A and C rings. 
+The use of an aromatic A-ring substrate, however, was found to be unsuitable for the 
+introduction of the requisite hydroxyl groups at carbons 4a and 12a. Applying these previous
+tactics, we developed stepwise approaches to oxidize carbons 12a and 4a based on enol- and
+enolate-based oxidations, respectively, the latter of which was accomplished after systematic
+investigations that revealed critical reactivity patterns. The herein described synthetic 
+strategy resulted in the total synthesis of viridicatumtoxin B (1), which, in turn,
+formed the basis for the revision of its originally assigned structure. The developed 
+chemistry facilitated the synthesis of a series of viridicatumtoxin analogues, which were 
+evaluated against Gram-positive and Gram-negative bacterial strains, including drug-resistant
+pathogens, revealing the first structure–activity relationships within this structural type.
